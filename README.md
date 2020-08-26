@@ -1,4 +1,8 @@
 # AndroidStudy
+# edwith!
+# [BoostCourse]Android Programming
+# Addr : https://www.edwith.org 
+
 
 Android Study code
 
@@ -8,3 +12,5 @@ Android Study code
 4. LinearLayout Example
 5. RelativeLayout Example
 6. FrameLayout & Change ImageView Examples
+7. Basic Using Widgets(InputBox, toggleButton, CheckBox, RadioGroup & Button ... )
+
