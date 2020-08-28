@@ -86,4 +86,5 @@ lint/tmp/
 
 # Android Profiling
 *.hprof
-./.gitignore
+.gitignore
+.DS_Store
