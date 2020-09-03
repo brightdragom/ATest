@@ -19,3 +19,4 @@ Android Study code
 11. ScrollView Example
 12. Event Example(TouchEvent)
 13. Toast & Snackbar Example
+14. Dialog Example
