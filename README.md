@@ -21,3 +21,4 @@ Android Study code
 13. Toast & Snackbar Example
 14. Dialog Example
 15. NinePatch Example
+16. Inflaytion Example(layoutInflater)
